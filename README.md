@@ -1,140 +1,143 @@
 <div align="center">
 
-<br />
+<br>
 
 # Neural OS
 
 ### Your second brain — dark glass, AI memory, quiet power
 
-<br />
+A premium knowledge space designed as a private operating system for your mind.  
+Capture, chat, voice, search, and tasks under one calm, dark-glass dashboard.
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/AI%20OS-10B981?style=for-the-badge&logoColor=white" alt="AI%20OS" />
-  <img src="https://img.shields.io/badge/Vision%20UI-6366F1?style=for-the-badge&logoColor=white" alt="Vision%20UI" />
+<br>
 
-<br />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/AI_OS-10B981?style=for-the-badge" alt="AI OS"/>
+<img src="https://img.shields.io/badge/Vision_UI-6366F1?style=for-the-badge" alt="Vision UI"/>
 
-<img src="https://img.shields.io/badge/Crafted_by-Umar_Anayat-111111?style=flat-square&labelColor=C9A86C&color=111111" alt="Crafted by Umar Anayat" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Crafted_by-Umar_Anayat-111111?style=flat-square&labelColor=C9A86C&color=111111" alt="Crafted by Umar Anayat"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Available_for_Customization-22C55E?style=flat-square" alt="Available" />
+<img src="https://img.shields.io/badge/Status-Available_for_Customization-22C55E?style=flat-square" alt="Available for Customization"/>
 
 </div>
 
-<br />
+<br>
 
 ---
 
-<br />
+<br>
 
-## The Idea
+### The Idea
 
-> Notes shouldn't feel like a spreadsheet. Neural OS feels like a private operating system for your mind.
+> Notes shouldn’t feel like a spreadsheet.  
+> Neural OS feels like a private operating system for your mind.
 
-Neural OS is a premium knowledge space — capture, chat, voice, search, and tasks under one dark glass dashboard. It looks expensive because the craft is intentional.
+**Neural OS** is a focused knowledge product.  
+It brings capture, AI chat, voice, search, and light tasks into one intentional dark-glass experience — designed to feel expensive because the craft is deliberate.
 
-<br />
+<br>
 
-## What Makes It Special
+### What It Delivers
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **First impression**  
+**First Impression**  
 Splash and onboarding that set the tone
 
 </td>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Secure entry**  
+**Secure Entry**  
 Sign-in that feels private
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Command center**  
+**Command Center**  
 Dashboard with Vision-inspired calm
 
 </td>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Find anything**  
-Search across what you saved
+**Find Anything**  
+Search across everything you’ve saved
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Talk to it**  
+**Talk to It**  
 AI chat and voice intelligence
 
 </td>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Remember**  
+**Remember**  
 Memory and knowledge views
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-✦ **Stay sharp**  
+**Stay Sharp**  
 Tasks and light workflows
 
 </td>
-<td width="50%">
+    <td width="50%" valign="top">
 
-✦ **Lock it down**  
+**Lock It Down**  
 Biometric protection
 
 </td>
-</tr>
+  </tr>
 </table>
 
+<br>
 
-<br />
-
-## Interface
-
-<p align="center"><i>Premium UI captures live in <code>screenshots/</code> — drop <code>01.png</code>, <code>02.png</code>, <code>03.png</code> and they appear below.</i></p>
+### Interface
 
 <p align="center">
-  <img src="screenshots/01.png" width="240" style="border-radius:16px" alt="01" />
+  <img src="screenshots/01.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/02.png" width="240" style="border-radius:16px" alt="02" />
+  <img src="screenshots/02.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/03.png" width="240" style="border-radius:16px" alt="03" />
+  <img src="screenshots/03.png" width="240" alt="Screen 03"/>
 </p>
 
+<p align="center">
+  <sub>Designed for focus and quiet power — premium UI captures</sub>
+</p>
 
-<br />
+<br>
 
 ---
 
-<br />
+<br>
 
 <div align="center">
 
-## Work With The Developer
+### Work With The Developer
 
-**Umar Anayat** designs and ships Flutter products that feel intentional — calm motion, sharp UI, and features people actually use.
+**Umar Anayat** designs and ships Flutter products that feel intentional.  
+Calm motion. Sharp UI. Features people actually use.
 
-If you want this project customized, white-labeled, or built into your brand:
+Looking to customize, white-label, or adapt this project to your brand?
 
-<br />
+<br>
 
-[![Email](https://img.shields.io/badge/Email-iumaranayat_at_gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iumaranayat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iumaranayat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iumaranayat@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+923087863007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923087863007)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92_308_7863007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923087863007)
 
-<br />
-
-<sub>iumaranayat@gmail.com &nbsp;·&nbsp; +923087863007</sub>
-
+<br>
 </div>
 
-<br />
+<br>
